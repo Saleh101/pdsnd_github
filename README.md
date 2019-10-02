@@ -12,6 +12,7 @@ I used these three files that I had from Udacity
 chicago.csv
 new_york_city.csv
 washington.csv
+and I used Atom as my text editor
 
 ### Credits
 Udacity's programing for data science for enterprise
